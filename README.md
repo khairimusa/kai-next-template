@@ -1,15 +1,20 @@
 # Kai Next Template
 
-Template for creating app with next js 14 & shadcn-ui.
+Template for creating app with next js 14 & shadcn-ui
 
 ## Installation
 
 ```bash
-git clone git@github.com:khairimusa/kai-next-template.git
+git clone git@github.com:khairimusa/kai-next-template.git "you-project-name-here"
 
 #set you to your own repo
 git remote set-url origin new.git.url/here
 
+#install package
+npm i
+
+#run the project
+npm run dev
 ```
 
 ## Contributing
