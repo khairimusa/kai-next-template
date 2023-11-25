@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  output: "export",
+  basePath: "/kai-next-template",
 
-module.exports = nextConfig
+  images: {
+    unoptimized: true,
+  },
+};
+
+module.exports = nextConfig;

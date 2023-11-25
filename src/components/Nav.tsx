@@ -10,7 +10,7 @@ export default function Nav() {
           <li>
             <a href="https://khaairi.com" target="_blank"></a>
             <Image
-              src="vercel.svg"
+              src="/kai-next-template/vercel.svg"
               alt="vecel logo"
               className="dark:invert"
               width={100}
