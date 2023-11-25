@@ -1,6 +1,6 @@
 # Kai Next Template
 
-Template for creating app with next js 14 & shadcn-ui
+Template for creating app with next js 14 & shadcn-ui.
 
 ## Installation
 
