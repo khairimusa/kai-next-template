@@ -1,5 +1,7 @@
 # Kai Next Template
 
+[demo](https://khairimusa.github.io/kai-next-template/)
+
 Template for creating app with next js 14 & shadcn-ui
 
 ## Installation
