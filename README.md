@@ -1,7 +1,24 @@
-## Getting Started
+# Kai Next Template
+
+Template for creating app with next js 14 & shadcn-ui
+
+## Installation
 
 ```bash
-npm run dev
+git clone git@github.com:khairimusa/kai-next-template.git
+
+#set you to your own repo
+git remote set-url origin new.git.url/here
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
