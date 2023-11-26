@@ -1,5 +1,5 @@
 import Container from "@/components/Container";
 
-export default function () {
+export default function Samples() {
   return <Container>Samples Page</Container>;
 }
