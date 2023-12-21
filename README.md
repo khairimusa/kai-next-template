@@ -9,8 +9,9 @@ Template for creating app with next js 14 & shadcn-ui
 ```bash
 git clone git@github.com:khairimusa/kai-next-template.git "you-project-name-here"
 
-#set you to your own repo
-git remote set-url origin new.git.url/here
+# make your own by:
+delete .git folder
+commit your changes
 
 #install package
 npm i
